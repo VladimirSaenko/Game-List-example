@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: consolas;
+    user-zoom: fixed;
 }
 
 body {
@@ -75,6 +76,7 @@ body {
 .gamelist span {
     position: relative;
     left: 40px;
+    user-select: text;
 }
 
 .gamelist span::before {
