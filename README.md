@@ -6,14 +6,14 @@
 
 ### Portfolio-2 {
 
-https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/GameList/index.html
+#### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/GameList/index.html
 
-}
+### }
 
 ### Codepen {
 
-https://codepen.io/vladimirsaenko/pen/dyWpOBz
+#### https://codepen.io/vladimirsaenko/pen/dyWpOBz
 
-}
+### }
 
-#### P.S игры, как пример, список может состоять из любых игр и не обязательно должен состоять из игр
+### P.S игры, как пример, список может состоять из любых игр и не обязательно должен состоять из игр
