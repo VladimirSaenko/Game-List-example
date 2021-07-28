@@ -1,8 +1,6 @@
 # Game List example 
  
-### Пример сайта со списком 
-
-![portfolio-img](https://user-images.githubusercontent.com/56477695/121777434-b1018100-cb9a-11eb-8086-c0a514e7b4ec.png)
+### Пример сайта со списком
 
 ### Portfolio-2 {
 
