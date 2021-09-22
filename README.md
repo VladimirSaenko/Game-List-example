@@ -2,15 +2,15 @@
  
 ### Пример сайта со списком
 
-### Portfolio-2 {
+## Portfolio-2 {
 
-#### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/GameList/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/GameList/index.html
 
 ### }
 
-### Codepen {
+## Codepen {
 
-#### https://codepen.io/vladimirsaenko/pen/dyWpOBz
+### https://codepen.io/vladimirsaenko/pen/dyWpOBz
 
 ### }
 
