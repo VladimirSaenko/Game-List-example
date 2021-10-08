@@ -2,7 +2,7 @@
  
 ### Пример сайта со списком
 
-## Portfolio-2 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/GameList/index.html
 
