@@ -85,10 +85,6 @@ body {
     height: 25px;
 }
 
-.gamelist input[type="checkbox"] {
-    -webkit-appearance: none;
-}
-
 .gamelist input[type="checkbox"]:checked ~ i {
     top: 1px;
     border-top: none;
