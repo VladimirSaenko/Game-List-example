@@ -2,7 +2,7 @@
 
 ## Пример сайта со списком
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/201045793-80c8d2bb-67ba-4ae7-97f9-cfe6fc05ec13.png)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/216644750-4b38b7ab-0c0e-4b23-8b2d-1e83a14d5c1e.png)
 
 ## Portfolio {
 
