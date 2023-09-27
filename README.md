@@ -2,7 +2,7 @@
 
 ## Пример сайта со списком
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/216644750-4b38b7ab-0c0e-4b23-8b2d-1e83a14d5c1e.png)
+![img-portfolio](https://github.com/VladimirSaenko/Game-List-example/assets/56477695/b914005b-c950-4c78-bc19-0365ab7e813d)
 
 ## Portfolio {
 
