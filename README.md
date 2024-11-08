@@ -1,6 +1,6 @@
 # Game List example 
 
-![img-portfolio](https://github.com/VladimirSaenko/Game-List-example/assets/56477695/b914005b-c950-4c78-bc19-0365ab7e813d)
+![image](https://github.com/user-attachments/assets/4066c1bf-3717-4fc1-ba74-c7ffa199c274)
 
 ## Portfolio {
 
